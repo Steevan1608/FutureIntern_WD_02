@@ -1,4 +1,4 @@
-**AN PERSONAL PORTFOLIO WEBSITE**
+                                                                    **AN PERSONAL PORTFOLIO WEBSITE**
 
 Your portfolio website features a clean and organized layout, highlighted by a navigation bar with essential sections: Home, Projects, Skills, About Us, Achievements, and Contact Us. 
 Here's a detailed breakdown: Home: The landing section that provides an overview of you and your portfolio. 
